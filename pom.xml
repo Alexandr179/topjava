@@ -382,6 +382,7 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
         </profile>
+
         <profile>
             <id>heroku</id>
             <!--https://devcenter.heroku.com/articles/java-webapp-runner            -->
